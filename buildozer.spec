@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = Mobile App 001
+title = ClassMates
 
 # (str) Package name
-package.name = mobileapp001
+package.name = classmates
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.wiseplat
+package.domain = org.bikamstudio
 
 # (str) Source code where the main.py live
 source.dir = .
